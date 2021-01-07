@@ -1,0 +1,7 @@
+Khan: 63.00% (2218231)
+Correy: 20.00% (704200)
+Li: 14.00% (492940)
+O'Tooley: 3.00% (105630)
+Number of Votes:  3521001
+List of Candidates:  ['Khan', 'Correy', 'Li', "O'Tooley"]
+The winning candidate is:  Khan
