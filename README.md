@@ -2,8 +2,6 @@
 
 Contains two seperate folders with Python scripts, analyses, and CSV files; one folder for PyBank, another for PyPoll.
 
-
-
 PyBank:
 
 Python script that analyzes the records to calculate each of the following:
